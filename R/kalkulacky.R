@@ -18,7 +18,6 @@ hypotekarna_kalkulacka <- function(urok, dlzka, hodnota) {
   
   return(splatka)
 }
-calculate_monthly_payment(5,30,100000)
 
 #' Dochodkova kalkulacka
 #'
